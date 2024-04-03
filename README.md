@@ -1,11 +1,11 @@
-# 🐶 멍줍이란?
+# ☀️ 멍줍이란?
 
 > 반려인을 위한 반려동물 양육생활 지원 통합앱
  
  ![3조 멍줍_page-0011](https://github.com/shinhan3/project3/assets/141472393/db238cd7-72e9-4018-835c-e87dd476daee)
 <br/>
 
-# 🐶 기획 배경
+# ☀️ 기획 배경
 
 > 분산된 여러 기능을 하나의 통합앱으로 제공하여 사용자의 편의성을 높이고 일관된 사용자 경험을 제공하기 위해 하나의 통합 앱으로 결합
 
@@ -24,7 +24,7 @@
 <br/>
 
 
-# 🐶 서비스 특징
+# ☀️ 서비스 특징
 
 <p>
 멍줍은 AI와 금융 기술을 결합한 카드 기능을 통해 지속 가능한 미래를 위한 ESG 가치 창출에 앞장섭니다.
@@ -57,14 +57,14 @@
     <br/>
   
   
-# 🐶 진행 기간 및 절차
+# ☀️ 진행 기간 및 절차
 🗓️ 2024.1.8 - 2024
 ![업무흐름도 (1)](https://github.com/shinhan3/project3/assets/141472393/c65afd0f-c734-4cf2-bede-d7a18ea42aca)
 .2.29
 
 <br/>
 
-# 🐶 함께한 멤버
+# ☀️ 함께한 멤버
 <table>
   <tbody>
     <tr>
@@ -79,7 +79,7 @@
   </tbody>
 </table>
 
-# 🐶 개발 도구
+# ☀️ 개발 도구
 ### BackEnd
 <div>
   <img alt="Java" src ="https://img.shields.io/badge/Java-0769AD.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -124,10 +124,10 @@
 
 <br/>
 
-# 🐶 ERD 설계
+# ☀️ ERD 설계
 <img width="1000" alt="ERD025" src="https://github.com/shinhan3/project3/assets/118763659/96ed906c-148e-4cae-a680-3f6ceea94433">
 
-# 🐶 페이지 구성 및 프리뷰
+# ☀️ 페이지 구성 및 프리뷰
 ### 마이댕/main
 <img src="https://github.com/shinhan3/project3/assets/118763659/5b884d7a-f242-454e-9c39-9d436a831306" width="100%">
 
@@ -170,7 +170,7 @@
 ### 멍줍카드/최대 혜택
 <img src="https://github.com/shinhan3/project3/assets/118763659/54ea3f35-c1f5-4f25-ab81-01c2f040abae" width="100%">
 
-# 🐶 주요 메소드
+# ☀️ 주요 메소드
 ### E
 - VictoryNative
 ### S
