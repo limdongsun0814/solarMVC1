@@ -57,27 +57,7 @@
     <br/>
   
   
-# ☀️ 진행 기간 및 절차
-🗓️ 2024.1.8 - 2024
-![업무흐름도 (1)](https://github.com/shinhan3/project3/assets/141472393/c65afd0f-c734-4cf2-bede-d7a18ea42aca)
-.2.29
 
-<br/>
-
-# ☀️ 함께한 멤버
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/limdongsun0814">
-       <img src="https://github.com/shinhan3/project3/assets/118763659/5ab9178b-6c1c-46c2-b414-253112a39d63" width="100px;" alt=""/><br /><sub><b>임동선</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/wldnjsrla1324"><img src="https://github.com/shinhan3/project3/assets/118763659/aabb3b26-7b37-4358-bc21-a18033a1aa2d"  width="100px;" height="130px;"alt=""/><br /><sub><b>김지원</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/wldnjs127"><img src="https://github.com/shinhan3/project3/assets/118763659/87deb8bb-cc10-4a4f-8ebc-cbdf325a25a1"  width="100px;" height="130px;"alt=""/><br /><sub><b>박지원</b></sub></a><br /></td><tr/>
-      <td align="center"><a href="https://github.com/rudtnrdid123"><img src="https://github.com/shinhan3/project3/assets/118763659/5566d2a8-d599-4063-8a9b-79dded8e4b6b"  width="100px;" height="130px;" alt="" /><br /><sub><b>배재호</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/aeyena"><img src="https://github.com/shinhan3/project3/assets/118763659/cabaed66-074a-46c3-a375-19190d29508b" width="100px;" alt=""/><br /><sub><b>이예나</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/sunhcho227"><img src="https://github.com/changi123/9dorak/assets/77386337/b2b663b7-27a3-4ae4-85eb-97eb5a33ea42"  width="100px;" height="130px;"alt=""/><br /><sub><b>조선희</b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
 
 # ☀️ 개발 도구
 ### BackEnd
